@@ -1,2 +1,2 @@
 # Javascript_Snake_Game
-Le jeu du serpent en Javascript 
+Le jeu du serpent en Javascript Vanille
